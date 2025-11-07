@@ -1,0 +1,91 @@
+{
+  "site": {
+    "title": "Charushree — Product Lead & AI Engineer",
+    "description": "Product-led builder blending AI systems, user insight, and business value.",
+    "favicon": "assets/favicon.png",
+    "theme": "auto" 
+  },
+  "hero": {
+    "name": "Charushree",
+    "tagline": "Product Lead • AI Engineer",
+    "headline": "I build AI-native products that ship value.",
+    "subheadline": "From 0→1 experiments to scale, I blend product sense, ML systems, and GTM to ship outcomes.",
+    "ctaPrimary": {"label": "Email me", "href": "mailto:you@example.com"},
+    "ctaSecondary": {"label": "Download Resume", "href": "assets/Charushree_Resume.pdf"},
+    "avatar": "assets/avatar.jpg"
+  },
+  "about": {
+    "title": "About",
+    "content": "Product leader with hands-on AI engineering depth. I’ve led cross-functional teams to build recommendation systems, copilots, and automation features that moved retention and revenue. I care about swift iteration, clear metrics, and delightful UX."
+  },
+  "experience": {
+    "title": "Experience",
+    "items": [
+      {
+        "role": "Product Lead, AI",
+        "company": "Acme AI",
+        "period": "2023 — Present",
+        "highlights": [
+          "Shipped an LLM-powered support copilot reducing average handle time by 28%.",
+          "Launched cold-start recommendations; 12% lift in day-7 retention.",
+          "Led a squad of 8 (PMs, DS, Eng, Design) with weekly experiment cadence."
+        ]
+      },
+      {
+        "role": "Senior ML Engineer",
+        "company": "Beta Systems",
+        "period": "2021 — 2023",
+        "highlights": [
+          "Built real-time ranking with feature store + online learning pipeline.",
+          "Partnered with Design to add human-in-the-loop feedback loops."
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Selected Projects",
+    "items": [
+      {
+        "name": "InsightCopilot",
+        "description": "Task-aware assistant that drafts insights from analytics logs using retrieval-augmented generation.",
+        "tags": ["LLM", "RAG", "TypeScript"],
+        "links": [
+          {"label": "GitHub", "href": "https://github.com/charushree-code/insight-copilot"},
+          {"label": "Demo", "href": "#"}
+        ],
+        "image": "assets/project1.jpg"
+      },
+      {
+        "name": "Realtime Ranker",
+        "description": "A streaming ranking service with bandits for exploration.",
+        "tags": ["Python", "gRPC", "Bandits"],
+        "links": [
+          {"label": "GitHub", "href": "#"}
+        ],
+        "image": "assets/project2.jpg"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "groups": [
+      {"label": "Product", "items": ["Strategy & Roadmapping", "Experimentation", "GTM & Metrics", "Team Leadership"]},
+      {"label": "AI/ML", "items": ["LLMs & RAG", "Recommendation Systems", "Evaluation & Prompting", "Feature Stores"]},
+      {"label": "Engineering", "items": ["Python", "TypeScript", "PostgreSQL", "Docker", "GCP/AWS"]},
+      {"label": "UX", "items": ["User Interviews", "Flows & Prototyping", "A11y", "Design QA"]}
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "you@example.com",
+    "location": "Chicago, IL",
+    "links": [
+      {"label": "GitHub", "href": "https://github.com/charushree-code"},
+      {"label": "LinkedIn", "href": "https://www.linkedin.com/in/your-handle"},
+      {"label": "X/Twitter", "href": "https://x.com/your-handle"}
+    ]
+  },
+  "footer": {
+    "copyright": "© 2025 Charushree"
+  }
+}
